@@ -14,10 +14,12 @@
 ## 2. Install and confiure amplify cli
 ####
     sudo npm install -g @aws-amplify/cli
+
 ![Screenshot 2024-12-21 173729](https://github.com/user-attachments/assets/0e358f17-3bd9-4823-bb6b-991457cce6d1)
 
 ####
     sudo amplify confiure
+
 * Create new aws user
 ![Screenshot 2024-12-21 174430](https://github.com/user-attachments/assets/2db18da5-7114-41f4-9c51-2763ad113602)
 * Attach policy directly for amplify
