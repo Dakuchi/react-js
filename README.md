@@ -23,9 +23,12 @@
 * Create new aws user
 
 ![Screenshot 2024-12-21 174430](https://github.com/user-attachments/assets/2db18da5-7114-41f4-9c51-2763ad113602)
-* Attach policy directly for amplify
+* Attach policy directly for amplify'
+
 ![Screenshot 2024-12-21 174657](https://github.com/user-attachments/assets/17d5e785-34e9-47d6-8b54-83963e53e9d4)
 * Create access key for new user
+
 ![Screenshot 2024-12-21 175012](https://github.com/user-attachments/assets/d3983008-0655-47e7-81df-a726f85d3458)
 * Add amplify user credential
+
 ![Screenshot 2024-12-21 175249](https://github.com/user-attachments/assets/175d3194-1d9d-4475-9dfc-912e142f4b92)
