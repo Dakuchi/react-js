@@ -32,3 +32,25 @@
 * Add amplify user credential
 
 ![Screenshot 2024-12-21 175249](https://github.com/user-attachments/assets/175d3194-1d9d-4475-9dfc-912e142f4b92)
+
+### 3. Initialize amplify
+####
+    amplify init
+
+![Screenshot 2024-12-21 180143](https://github.com/user-attachments/assets/bd1b18cd-dcf4-497c-8a28-54c70119da66)
+![Screenshot 2024-12-21 180331](https://github.com/user-attachments/assets/172d2836-50e6-4358-8a56-94a8eec0f597)
+
+### 4. Publish amplify hosting
+####
+    amplify add hosting
+
+![Screenshot 2024-12-21 180628](https://github.com/user-attachments/assets/15015b7c-0f5f-440a-bf37-1bc67978ea57)
+
+####
+    amplify publish
+
+![Screenshot 2024-12-21 181506](https://github.com/user-attachments/assets/a086efcf-ac3d-4f23-866a-063557e9235c)
+![Screenshot 2024-12-21 181434](https://github.com/user-attachments/assets/ce10c718-2700-427b-986b-3d3eb16871d7)
+
+
+
