@@ -97,5 +97,13 @@
 ![Screenshot 2024-12-21 230139](https://github.com/user-attachments/assets/ec39f1c4-f1cc-44a7-9446-35a6a4abb5be)
 
 * Fetch todo queries
-![image](https://github.com/user-attachments/assets/ac30a7e6-75b9-4ae1-9f80-272aaec73bc5)
+* Update todo item
+* Delete todo item
+
+![image](https://github.com/user-attachments/assets/de26a870-25eb-4893-a5ee-ea4c38c41466)
+![image](https://github.com/user-attachments/assets/57beaa55-b0c5-40ca-8e36-f6a993f4803a)
+![image](https://github.com/user-attachments/assets/3e4a5f12-666b-4f36-aa96-c285789c5a8d)
+![image](https://github.com/user-attachments/assets/cd6f96e7-dd34-411d-8acd-913595971aef)
+![image](https://github.com/user-attachments/assets/54fe7e6d-23ba-4cf6-802a-a237bc607894)
+
 
