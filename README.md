@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8621233f-c654-477e-8b3c-22815795c747)![image](https://github.com/user-attachments/assets/944f3664-760e-4c83-aa56-83c83d5a68ca)# Creating Full-Stack Apps with AWS and React
+![image](https://github.com/user-attachments/assets/bd28fef0-c575-49f9-94af-91cc6e849c6f)![image](https://github.com/user-attachments/assets/8621233f-c654-477e-8b3c-22815795c747)![image](https://github.com/user-attachments/assets/944f3664-760e-4c83-aa56-83c83d5a68ca)# Creating Full-Stack Apps with AWS and React
 ## 1. Create project
 ####
     npx create-react-app todo
@@ -77,7 +77,25 @@
     amplify add api
 
 ![Screenshot 2024-12-21 221349](https://github.com/user-attachments/assets/987e7601-e1d8-48eb-b52a-6b501a26ddc2)
+* Update graphql schema
+![Screenshot 2024-12-21 223532](https://github.com/user-attachments/assets/7f08d543-a4a5-4244-9f8a-d02bed38a2ef)
 
-    
+####
+    amplify push
 
+![Screenshot 2024-12-21 222158](https://github.com/user-attachments/assets/b065b0cc-699d-4cf9-a958-8321a6887fce)
+
+* Test schema on Appsync
+![Screenshot 2024-12-21 223731](https://github.com/user-attachments/assets/8aa0ba5c-4fe0-48be-aa58-bda4ec9ac0a6)
+![Screenshot 2024-12-21 224501](https://github.com/user-attachments/assets/2204f39f-35a4-4a6d-8841-ceb1e5ab20f1)
+![Screenshot 2024-12-21 224606](https://github.com/user-attachments/assets/2fef2810-8f66-40e2-a583-a125b5d7a5ae)
+
+### 8. Add API to App    
+* Create todo mutation
+![Screenshot 2024-12-21 230047](https://github.com/user-attachments/assets/eea43fa0-7aa3-431a-977f-d89461dfe224)
+![Screenshot 2024-12-21 230108](https://github.com/user-attachments/assets/aecf6718-6e0b-4290-b5f3-23218e7b0505)
+![Screenshot 2024-12-21 230139](https://github.com/user-attachments/assets/ec39f1c4-f1cc-44a7-9446-35a6a4abb5be)
+
+* Fetch todo queries
+![image](https://github.com/user-attachments/assets/ac30a7e6-75b9-4ae1-9f80-272aaec73bc5)
 
