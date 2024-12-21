@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bd28fef0-c575-49f9-94af-91cc6e849c6f)![image](https://github.com/user-attachments/assets/8621233f-c654-477e-8b3c-22815795c747)![image](https://github.com/user-attachments/assets/944f3664-760e-4c83-aa56-83c83d5a68ca)# Creating Full-Stack Apps with AWS and React
+# Full-Stack Apps with AWS and React
 ## 1. Create project
 ####
     npx create-react-app todo
