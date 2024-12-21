@@ -67,6 +67,7 @@
 ####
     npm install @aws-amplify/ui-react aws-amplify
 * Update app.js with new user auth
+
 ![Screenshot 2024-12-21 213955](https://github.com/user-attachments/assets/d527050e-55fd-4a03-8c65-392473ba6f70)
 ![Screenshot 2024-12-21 214326](https://github.com/user-attachments/assets/126be4c0-44b7-440d-80d6-c602574726b0)
 
